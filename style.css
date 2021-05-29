@@ -11,7 +11,7 @@ body{
     padding: 0;
     font-family: 'Roboto', sans-serif;
     background-color: #101214;
-    color: #7A7C80;
+    color: #afafaf;
 
 }
 
@@ -67,9 +67,15 @@ a{
     margin:0;
 }
 
+.section-2 li{
+  font-size: 1.1rem;
+  padding-bottom: 10px;
+  margin:0;
+}
+
 .section-2 a{
     display: block;
-    padding: 5px;
+    padding: 1px;
     font-size: 1.2rem;
     padding-left: 0;
     width: 150px;
